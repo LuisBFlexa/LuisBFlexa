@@ -16,9 +16,10 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white">
     <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
-</div><br/>
+</div> <br/>
 
+90% do sucesso é insistir 
 
-últimos Projetos
+##últimos Projetos
 - [Sttockmastter](https://github.com/annalujansen/controle_sttockmasterr) <br/>
 
